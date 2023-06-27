@@ -1,0 +1,8 @@
+node_modules/
+dist
+.vscode/
+.eslintrc.js
+vite.config.ts
+postcss.config.js
+tailwind.config.js
+*.local
